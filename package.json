@@ -1,0 +1,13 @@
+{
+  "name": "express-admin-example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "no desc",
+  "main": "",
+
+
+  "dependencies": {
+    "express-admin": "latest",
+    "grunt": "latest"
+  }
+}

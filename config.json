@@ -1,0 +1,15 @@
+{
+    "mysql": {
+        "database": "espressProject",
+        "user": "preeti",
+        "password": ""
+    },
+    "server": {
+        "port": 5000
+    },
+    "app": {
+        "layouts": true,
+        "themes": true,
+        "languages": true
+    }
+}
